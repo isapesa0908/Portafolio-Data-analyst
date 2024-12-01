@@ -21,7 +21,7 @@ etc.
 Correo Electrónico: perezsarmiento10@gmail.com 
 cel. +57 3014642124
 LinkedIn: https://www.linkedin.com/in/isaias-perez-2b7117182/
-GitHub: github.com/isapesa0908
+GitHub: https://github.com/isapesa0908
 
 🌟 Nota
 Si encuentras útil este portafolio o tienes alguna sugerencia, no dudes en contactarme o dejar una estrella ⭐ en este repositorio.
