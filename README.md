@@ -12,7 +12,7 @@ Soy un Analista de Business Intelligence con experiencia en análisis  de datos.
 
 🛠️ Herramientas y Tecnologías
 Lenguajes de Programación: Python, SQL
-Visualización: Power BI, Matplotlib, Seaborn
+Visualización: Power BI, Matplotlib, Seaborn..
 Manipulación de Datos: Pandas, Excel
 Otros: Jupyter Notebook, G. Colab
 etc.
