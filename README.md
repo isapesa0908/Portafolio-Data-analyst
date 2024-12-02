@@ -23,5 +23,8 @@ cel. +57 3014642124
 LinkedIn: https://www.linkedin.com/in/isaias-perez-2b7117182/
 GitHub: https://github.com/isapesa0908
 
-🌟 Nota
-Si encuentras útil este portafolio o tienes alguna sugerencia, no dudes en contactarme o dejar una estrella ⭐ en este repositorio.
+🌟 Nota;
+
+Si encuentras útil este portafolio o tienes alguna sugerencia, no dudes en contactarme o dejar una estrella ⭐ En este repositorio. Ten en cuenta que, en algunos casos, GitHub puede no cargar los códigos o notebooks de inmediato. Si esto ocurre, refresca la página hasta que aparezcan correctamente. Además, GitHub no carga imágenes o gráficos complejos como los generados por Plotly debido a su alta complejidad, por lo que es posible que necesites visualizar estos elementos en un entorno adecuado.
+
+
